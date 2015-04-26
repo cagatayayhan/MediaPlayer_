@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\c#YoutubeDersleri\MediaPlayer_\MediaPlayer_\bin\Debug\MediaPlayer_.exe.config
+C:\Users\pc\Desktop\c#YoutubeDersleri\MediaPlayer_\MediaPlayer_\bin\Debug\MediaPlayer_.exe
+C:\Users\pc\Desktop\c#YoutubeDersleri\MediaPlayer_\MediaPlayer_\bin\Debug\MediaPlayer_.pdb
+C:\Users\pc\Desktop\c#YoutubeDersleri\MediaPlayer_\MediaPlayer_\bin\Debug\Interop.WMPLib.dll
+C:\Users\pc\Desktop\c#YoutubeDersleri\MediaPlayer_\MediaPlayer_\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\pc\Desktop\c#YoutubeDersleri\MediaPlayer_\MediaPlayer_\obj\Debug\Interop.WMPLib.dll
+C:\Users\pc\Desktop\c#YoutubeDersleri\MediaPlayer_\MediaPlayer_\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\pc\Desktop\c#YoutubeDersleri\MediaPlayer_\MediaPlayer_\obj\Debug\MediaPlayer_.csproj.ResolveComReference.cache
+C:\Users\pc\Desktop\c#YoutubeDersleri\MediaPlayer_\MediaPlayer_\obj\Debug\MediaPlayer_.Form1.resources
+C:\Users\pc\Desktop\c#YoutubeDersleri\MediaPlayer_\MediaPlayer_\obj\Debug\MediaPlayer_.Properties.Resources.resources
+C:\Users\pc\Desktop\c#YoutubeDersleri\MediaPlayer_\MediaPlayer_\obj\Debug\MediaPlayer_.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\c#YoutubeDersleri\MediaPlayer_\MediaPlayer_\obj\Debug\MediaPlayer_.exe
+C:\Users\pc\Desktop\c#YoutubeDersleri\MediaPlayer_\MediaPlayer_\obj\Debug\MediaPlayer_.pdb
